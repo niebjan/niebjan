@@ -5,6 +5,6 @@ Hi! I'm Jan. A fullstack developer from Germany. Currently working on improving 
 
 # My GitHub contributions summary
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niebjan&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niebjan&theme=dark&ring=A9CDD7&file=A9CDD7&currStreakNum=A9CDD7&currStreakLabel=A9CDD7&hide_border=true)](https://git.io/streak-stats)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=niebjan&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=niebjan&hide_border=true&show_icons=true&bg_color=151515&title_color=A9CDD7&icon_color=A9CDD7&text_bold=false&text_color=9e9e9e)
